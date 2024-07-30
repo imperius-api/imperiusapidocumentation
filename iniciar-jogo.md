@@ -10,7 +10,7 @@ description: Nessa página você verá um exemplo de Requisição para Iniciar u
 \
 `Header` | <mark style="color:orange;">`"Content-Type: application/json"`</mark>
 
-:warning: **Para enviar Saldo do Jogador com decimais**, envie usando <mark style="color:red;">"." (ponto) e não "," (vírgula)</mark>;\
+:warning: **Para enviar Saldo do Jogador com decimais**, envie usando <mark style="color:green;">"." (ponto)</mark> e não <mark style="color:red;">"," (vírgula)</mark>;\
 Caso envie com vírgula invés de ponto, você terá erro na chamada! <mark style="color:green;">`Ex: R$10.50`</mark>
 
 :page\_facing\_up: **Corpo da Chamada `(Body)`**
